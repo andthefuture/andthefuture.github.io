@@ -61,7 +61,7 @@ body {
     animation-iteration-count: infinite;
   }
 
-  .left_panel {
+  .left-panel {
    width:30%;
    height:100%;
    background-image: linear-gradient(#F92F49, #E80ACB);
@@ -124,7 +124,7 @@ body {
     padding-bottom: 19px;
   }
 
-  .come_ready {
+  .come-ready {
     padding-bottom: 10px;
   }
 
@@ -134,13 +134,13 @@ body {
     background-image: linear-gradient(-90deg, #3CEBFC 0%, #1C9AF8 100%);
     }
 
-  .buttons_wrapper {
+  .buttons-wrapper {
     padding-top: 2.5%;
     text-align: center;
     max-width: 380;
     height: auto;
 
-    .want_button {
+    .want-button {
       display:inline-block;
       width: 180px;
       height: 40px;
@@ -148,7 +148,7 @@ body {
       border-radius: 3px;
     }
 
-    .cashtag_button {
+    .cashtag-button {
       display:inline-block;
       width: 180px;
       height: 40px;
