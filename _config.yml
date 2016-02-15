@@ -8,10 +8,7 @@
 # Site settings
 title: The Starving ASK
 email: ask@thestarvingask.com
-description: > # this means to ignore newlines until "baseurl:"
-Share a creative meal with hungry people like you.
-At each Starving ASK we bring together artists & entrepreneurs, performers & engineers, insatiable novices & inspired masters of their craft.
-All we ask is that you come ready to eat some uncommonly good soup.
+description: > # this means to ignore newlines until "baseurl:" Share a creative meal with hungry people like you. At each Starving ASK we bring together artists & entrepreneurs, performers & engineers, insatiable novices & inspired masters of their craft. All we ask is that you come ready to eat some uncommonly good soup.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://thestarvingask.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
