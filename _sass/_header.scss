@@ -63,6 +63,7 @@ body {
 
   .left-panel {
    width:30%;
+   min-width: 375px;
    height:100%;
    background-image: linear-gradient(#F92F49, #E80ACB);
    opacity: 0.9;
@@ -144,7 +145,7 @@ body {
   .buttons-wrapper {
     position: absolute;
     bottom: 10px;
-    left: 135px;
+    /* left: 135px; */
     padding-top: 2.5%;
     text-align: center;
     max-width: 380;
