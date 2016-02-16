@@ -11,8 +11,8 @@ email: ask@thestarvingask.com
 description: Share a creative meal with hungry people like you.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://thestarvingask.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+#twitter_username: jekyllrb
+#github_username:  jekyll
 
 # Build settings
 markdown: kramdown
